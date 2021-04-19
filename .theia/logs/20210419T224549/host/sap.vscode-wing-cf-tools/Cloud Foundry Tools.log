@@ -1,0 +1,8 @@
+{
+  "exception": "connection is closed",
+  "label": "Cloud Foundry Tools.commands",
+  "level": "error",
+  "message": "cmdLogin failed",
+  "time": "2021-04-19T22:47:17.221Z",
+  "weak": true
+}

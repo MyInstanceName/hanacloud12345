@@ -1,0 +1,7 @@
+{
+  "error": {},
+  "label": "Code Snippet.webviewRpc.RpcExtension.RpcCommon",
+  "level": "error",
+  "message": "handleRequest: Failed processing request rpc-request id: 0.23103297015161628",
+  "time": "2021-04-15T22:17:18.566Z"
+}

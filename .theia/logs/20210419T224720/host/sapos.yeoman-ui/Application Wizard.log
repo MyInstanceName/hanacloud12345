@@ -1,0 +1,7 @@
+{
+  "label": "Application Wizard.AbstractWebviewPanel",
+  "level": "error",
+  "message": "@sap/hdb-project:app generator failed - env.on(error) The generator encountered an error: Error: Failed to create the \"hanacloud12345-hdidb-ws-j8w5r\" service; Status: create failed",
+  "stack": "Error: env.on(error) The generator encountered an error: Error: Failed to create the \"hanacloud12345-hdidb-ws-j8w5r\" service; Status: create failed\n    at module.exports._displayErrors (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:690:33)\n    at module.exports.install (/extbin/npm/globals/lib/node_modules/@sap/generator-add-hdb-module/generators/hdb_module_app/index.js:685:14)\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:97:5)",
+  "time": "2021-04-19T23:15:35.662Z"
+}
